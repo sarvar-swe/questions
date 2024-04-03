@@ -1,6 +1,7 @@
 # Savollar
 
 ### Terminal komandalari
+<hr>
 1. Terminal oynasini tozalash uchun qaysi komanda ishlatiladi?
 
    - [ ] `remove`
@@ -59,10 +60,13 @@
    - [ ] `cls`
 
 ### - Git komandalari
+<hr>
 
 - fork nima?
 - git clone [link] ?
 - 
 ### - .NET arxitekturasi
+<hr>
 
 ### - string operations
+<hr>
