@@ -35,6 +35,11 @@
    - [ ] `create Ilmhub`
    - [ ] `make Ilmhub`
 
+6. Kompyuterda `Ilmhub` nomli papka mavjud va uning ichida `Lesson1` va `Lesson2` nomli papkalar mavjud. `Lesson2` papkasiga o'tish ketma-ketligini ko'rsating.
+  - [x] `cd Ilmhub`, `cd Lesson2`
+  - [ ] `cd Ilmhub`, `cd Lesson1`, `cd Lesson2`
+  - [ ] `cd Lesson2`
+  
 ### - Git komandalari
 
 - fork nima?
