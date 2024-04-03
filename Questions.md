@@ -22,6 +22,14 @@
    - [x] `mkdir`
    - [ ] `make`
 
+4. Terminalda `mkdir` komandasining vazifasi nima?
+   
+   - [ ] file yoki papkaning joyini o'zgartirish
+   - [ ] file yoki papkaning nomini o'zgartirish
+   - [ ] file va papkalarning ro'yhatini ko'rsatish
+   - [x] yangi papka yaratish
+
+
 ### - Git komandalari
 
 - fork nima?
