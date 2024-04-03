@@ -29,6 +29,11 @@
    - [ ] file va papkalarning ro'yhatini ko'rsatish
    - [x] yangi papka yaratish
 
+5. Terminal orqali `Ilmhub` nomli papka yaratish uchun to'g'ri javobni toping.
+   - [x] `mkdir Ilmhub`
+   - [ ] `mdir Ilmhub`
+   - [ ] `create Ilmhub`
+   - [ ] `make Ilmhub`
 
 ### - Git komandalari
 
