@@ -36,10 +36,28 @@
    - [ ] `make Ilmhub`
 
 6. Kompyuterda `Ilmhub` nomli papka mavjud va uning ichida `Lesson1` va `Lesson2` nomli papkalar mavjud. `Lesson2` papkasiga o'tish ketma-ketligini ko'rsating.
-  - [x] `cd Ilmhub`, `cd Lesson2`
-  - [ ] `cd Ilmhub`, `cd Lesson1`, `cd Lesson2`
-  - [ ] `cd Lesson2`
-  
+   - [x] `cd Ilmhub`, `cd Lesson2`
+   - [ ] `cd Ilmhub`, `cd Lesson1`, `cd Lesson2`
+   - [ ] `cd Lesson2`
+
+7. Biz turgan papka manzilini chop qilish uchun qaysi komanda ishlatiladi?
+   - [x] `pwd`
+   - [ ] `print`
+   - [ ] `ls`
+   - [ ] `print dir`
+
+8. Terminalda `ls` komandasining vazifasi nima?
+   - [ ] biz turgan papkadagi filelar ro'yhatini ko'rsatadi
+   - [ ] biz turgan papkadagi papkalar ro'yhatini ko'rsatadi
+   - [x] biz turgan papkadagi filelar va papkalar ro'yhatini ko'rsatadi
+   - [ ] biz turgan papka manzilini chop qiladi
+
+9. Terminal orqali joriy papkadagi file va papkalar ro'yhatini ko'rsatish uchun qaysi komanda ishlatiladi.
+   - [x] `ls`
+   - [ ] `list`
+   - [ ] `cd`
+   - [ ] `cls`
+
 ### - Git komandalari
 
 - fork nima?
