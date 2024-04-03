@@ -1,11 +1,11 @@
 # Savollar
 
 ### Terminal komandalari
-    1. Terminal orqali yangi folder (papka) yaratish komandasini toping.
-        a) mdir
-        b) createdir
-        c) mkdir
-        d) dir
+1. Terminal orqali yangi folder (papka) yaratish komandasini toping. <br>
+    a) mdir <br>
+    b) createdir <br>
+    c) mkdir <br>
+    d) dir <br>
 
 >Terminal orqali yangi folder (papka) yaratish komandasini toping. <br>
 >
