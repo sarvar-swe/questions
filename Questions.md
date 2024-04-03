@@ -2,7 +2,14 @@
 
 ### - Terminal komandalari
 
-
+```
+1. Terminal orqali yangi folder (papka) yaratish komandasini toping.
+   
+   a) mdir
+   b) createdir
+   c) mkdir
+   d) dir
+```
 >Terminal orqali yangi folder (papka) yaratish komandasini toping. <br>
 >
 > a) mdir <br>
