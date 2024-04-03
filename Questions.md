@@ -14,6 +14,14 @@
    - [ ] Terminal oynasini yopish
    - [ ] Joriy papkadagi filelarni o'chirish
    - [ ] Joriy papkadagi filelar ro'yhatini ko'rsarib beradi
+
+3. Terminal orqali papka yaratish uchun qaysi komanda ishlatiladi?
+
+   - [ ] `dir`
+   - [ ] `create`
+   - [x] `mkdir`
+   - [ ] `make`
+
 ### - Git komandalari
 
 - fork nima?
