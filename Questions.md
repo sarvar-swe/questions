@@ -70,9 +70,7 @@
 
 ### String operations
 1. Matndagi A dan boshlangan so'zlarni chop etuvchi dastur tuzing. <br>
-   <b>Kiruvchi ma'lumotlar:</b> Birinchi satrda 
- matn berilgan. Matn uzunligi 500 dan oshmaydi. Matnda katta va kichik lotin xarflari va probel qatnashadi. Matndagi so`zlar probel bilan ajratilgan.
-
+   
    #### Example
    | Input | Output |
    | :--- | :--- |
@@ -83,3 +81,39 @@
    string str = Console.WriteLine();
    //Your code goes here
    ```
+
+2. Matndagi `NA` bilan tugaydigan so`zlarni ekranga chop qiluvchi dastur tuzilsin.<br>
+   
+   #### Example
+   | Input | Output |
+   | :--- | :--- |
+   | YaNA bahor keldi | YaNA |
+   | ANA MANA YANA asd HDFNAS | ANA MANA YANA |
+
+   ```csharp
+   string str = Console.WriteLine();
+   //Your code goes here
+   ```
+3. Matndagi `info` so'zi qatnashgan so`zlardan yangi matn tuzilsin.
+
+   #### Example
+   | Input | Output |
+   | :--- | :--- |
+   | Informatika va Matematika | Informatika |
+   | Informatik Informatsiyalar jarayoni | Informatik Informatsiyalar |
+
+   ```csharp
+   string str = Console.WriteLine();
+   //Your code goes here
+
+4. Berilgan satrdagi so’zlar ichidan eng uzunini toping.
+
+   #### Example
+   | Input | Output |
+   | :--- | :--- |
+   | Bugun birinchi kurslar uchun olimpiada bo’lib o’tadi | olimpiada |
+   | Intilganga tole yor | Intilganga |
+
+   ```csharp
+   string str = Console.WriteLine();
+   //Your code goes here
