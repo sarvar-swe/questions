@@ -74,6 +74,6 @@
  matn berilgan. Matn uzunligi 500 dan oshmaydi. Matnda katta va kichik lotin xarflari va probel qatnashadi. Matndagi so`zlar probel bilan ajratilgan.
 
 | Input | Output |
-| --- | --- |
+| :--- | :--- |
 | Algoritm ilmhub uz | Algoritm |
 | Adobe Algoritm ilmhub uz developer | Adobe Algoritm |
