@@ -77,3 +77,8 @@
    | :--- | :--- |
    | Algoritm ilmhub uz | Algoritm |
    | Adobe Algoritm ilmhub uz developer | Adobe Algoritm |
+
+   ```csharp
+   string str = Console.WriteLine();
+   //Your code goes here
+   ```
