@@ -66,6 +66,27 @@
 - git clone [link] ?
 - 
 ### .NET arxitekturasi
+1. .NET da Common Language Runtime (CLR) ning vazifasi nima? 
+   - [ ] ma'lumotlar bazasiga ulanish va tanzaksiyalarni amalga oshirish
+   - [x] yozilan kodni boshqarish va ishlatish
+   - [ ] yozildan kodlarni mashina tiliga o'tkazadi
+   - [ ] kodni sintaktik jihatdan to'g'riligini tekshiradi
+
+2. IL (Intermidate Language) kodni run qilsa bo'ladi.
+   - [No'to'gri]
+   - [To'gri]
+
+3. JIT nima?
+   - [ ] Just-In-Time
+   - [ ] Just-In-Translation
+   - [x] Just-In-Time Compiler
+   - [ ] Just-In-Time Execution
+
+4. JIT (Just-In-Time Compiler) ning vazifasiz nima?
+   - [x] IL (Intermidate Language) kodni mashina tushunadigan tilga o'tkazib beradi
+   - [ ] dasturlash tilida yozilgan kodni kompilatsiya qiladi
+   - [ ] kompilatsiya bo'lgan kodni ishlatib beradi
+   - [ ] dasturlash tilida yozilgan kodni to'g'ridan to'gri mashina tilga o'tkazib beradi
 <hr>
 
 ### String operations
