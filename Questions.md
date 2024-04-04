@@ -59,13 +59,36 @@
    - [ ] `cd`
    - [ ] `cls`
 
-### Git komandalari
 <hr>
 
-- fork nima?
-- git clone [link] ?
-- 
+### Git komandalari
+
+<hr>
+
+1. Githubdan repositoryni terminal orqali qanday yuklab olinadi?
+    - [x] git clone [https url]
+    - [ ] git clone repo [https url]
+    - [ ] git create [https url]
+    - [ ] git create repo [http url]
+
+2. Loyihadagi o'zgarishlarni githubdagi main branchga pull request qilish uchun qaysi komanda ishlatiladi.
+   - [ ] git pull origin HEAD
+   - [x] git push origin HEAD
+   - [ ] git pull origin main
+   - [ ] git add origin HEAD
+
+3. Github repositorydagi o'zgarishlarni torish uchun qayso komanda ishlatiladi?
+   - [x] git pull origin main
+   - [ ] git push origin main
+   - [ ] git update origin main
+   - [ ] git update current_branch
+
+<hr>
+
 ### .NET arxitekturasi
+
+<hr>
+
 1. .NET da Common Language Runtime (CLR) ning vazifasi nima? 
    - [ ] ma'lumotlar bazasiga ulanish va tanzaksiyalarni amalga oshirish
    - [x] yozilan kodni boshqarish va ishlatish
@@ -73,8 +96,8 @@
    - [ ] kodni sintaktik jihatdan to'g'riligini tekshiradi
 
 2. IL (Intermidate Language) kodni run qilsa bo'ladi.
-   - [No'to'gri]
-   - [To'gri]
+   - [x] No'to'gri
+   - [ ] To'gri
 
 3. JIT nima?
    - [ ] Just-In-Time
@@ -90,6 +113,9 @@
 <hr>
 
 ### String operations
+
+<hr>
+
 1. Matndagi A dan boshlangan so'zlarni chop etuvchi dastur tuzing. <br>
    
    #### Example
