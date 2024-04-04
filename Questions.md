@@ -1,7 +1,7 @@
 # Savollar
 
 ### Terminal komandalari
-
+<hr>
 1. Terminal oynasini tozalash uchun qaysi komanda ishlatiladi?
 
    - [ ] `remove`
@@ -59,14 +59,21 @@
    - [ ] `cd`
    - [ ] `cls`
 
-### - Git komandalari
+### Git komandalari
 <hr>
 
 - fork nima?
 - git clone [link] ?
 - 
-### - .NET arxitekturasi
+### .NET arxitekturasi
 <hr>
 
-### - string operations
-<hr>
+### String operations
+1. Matndagi A dan boshlangan so'zlarni chop etuvchi dastur tuzing. <br>
+   <b>Kiruvchi ma'lumotlar:</b> Birinchi satrda 
+ matn berilgan. Matn uzunligi 500 dan oshmaydi. Matnda katta va kichik lotin xarflari va probel qatnashadi. Matndagi so`zlar probel bilan ajratilgan.
+
+| Input | Output |
+| --- | --- |
+| Algoritm ilmhub uz | Algoritm |
+| Adobe Algoritm ilmhub uz developer | Adobe Algoritm |
