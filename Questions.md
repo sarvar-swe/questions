@@ -2,6 +2,7 @@
 
 ### Terminal komandalari
 <hr>
+
 1. Terminal oynasini tozalash uchun qaysi komanda ishlatiladi?
 
    - [ ] `remove`
